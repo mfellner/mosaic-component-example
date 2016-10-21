@@ -1,6 +1,6 @@
 {
   "name": "mosaic-component-example",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React component example for Mosaic.",
   "main": "dist/index.js",
   "repository": {
@@ -12,9 +12,6 @@
   "scripts": {
     "dist": "webpack -p",
     "test": "jest"
-  },
-  "dependencies": {
-    "webpack": "2.1.0-beta.25"
   },
   "devDependencies": {
     "babel-core": "6.17.0",
