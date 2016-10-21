@@ -2,6 +2,8 @@ src/
 test/
 node_modules/
 .gitignore
+.babelrc
+.npmignore
 .DS_Store
 README.md
 webpack.config.js
