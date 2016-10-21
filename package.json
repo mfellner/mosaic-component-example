@@ -4,7 +4,7 @@
   "description": "React component example for Mosaic.",
   "main": "dist/index.js",
   "repository": {
-    "url": "https://github.com/mfellner/mosaic-example-component.git",
+    "url": "https://github.com/mfellner/mosaic-component-example.git",
     "type": "git"
   },
   "author": "Maximilian Fellner <max.fellner@gmail.com>",
