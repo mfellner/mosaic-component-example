@@ -1,0 +1,26 @@
+.example {
+  font-family: sans-serif;
+  color: #111111;
+  padding: 0.5em;
+  display: block;
+}
+
+.example-1 {
+  font-size: 2em;
+}
+.example-2 {
+  font-size: 1.5em;
+}
+.example-3 {
+  font-size: 1.25em;
+}
+.example-4 {
+  font-size: 1em;
+}
+.example-5 {
+  font-size: 0.875em;
+}
+.example-6 {
+  font-size: 0.5em;
+  color: #AAAAAA;
+}

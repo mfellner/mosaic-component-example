@@ -1,0 +1,8 @@
+src/
+test/
+node_modules/
+.gitignore
+.DS_Store
+README.md
+webpack.config.js
+yarn.lock

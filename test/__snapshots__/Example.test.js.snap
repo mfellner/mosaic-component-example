@@ -1,0 +1,13 @@
+exports[`test Example should add a CSS class by default. 1`] = `
+<span
+  className="example example-1">
+  Hello, world!
+</span>
+`;
+
+exports[`test Example should add a CSS class with the given level. 1`] = `
+<span
+  className="example example-3">
+  Hello, world!
+</span>
+`;
